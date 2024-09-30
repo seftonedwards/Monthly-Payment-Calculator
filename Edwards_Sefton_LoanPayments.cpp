@@ -1,7 +1,5 @@
 /**************************************************************************************************************************************************/
-/* File Name: Edwards_Sefton_LoanPayments.cpp                                                                                                     */                                     
-/* Lab/Project: CSC 1253 Fall 2024 Programming Assignment 1                                                                                       */                                  
-/* Current Semester: Fall 2024                                                                                                                    */
+/* File Name: Edwards_Sefton_LoanPayments.cpp                                                                                                     */                                                                
 /* Author(s): S. Edwards                                                                                                                          */
 /* Purpose of Program: This program determines monthly payments for 3, 4, 5, and 6-year payment plans given the inputs of the loan amount and APR */
 /* Input Variables: Amount of the loan and the annual percentage rate (APR)                                                                       */      
